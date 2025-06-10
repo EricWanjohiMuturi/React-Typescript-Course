@@ -1,0 +1,1 @@
+- You can create custom types using the type keyword - type alias

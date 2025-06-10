@@ -1,0 +1,5 @@
+- Assigning types to variables is common.
+- it is not necessary to assign types to constant variables since it will not change elsewhere.
+- However you can still assign types to both constants and other variables.
+
+- We can use types in functions, for example in parameters. 
