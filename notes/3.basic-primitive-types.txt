@@ -1,0 +1,1 @@
+To invoke Typescript, use the command "npx tsc filename.ts". This converts the Typescript code into JS so that now it can run in the browser.

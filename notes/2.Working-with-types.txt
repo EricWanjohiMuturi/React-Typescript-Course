@@ -1,0 +1,4 @@
+- When working with typescript, you will still end up writing JS code and still use JS features.
+- However you get extra features available to write type safe code.
+- Types are enforced, and types are checked to avoid type errors. 
+- Check practical examples in "first-app.ts" file

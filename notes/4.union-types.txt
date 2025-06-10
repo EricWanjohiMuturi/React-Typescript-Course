@@ -1,0 +1,6 @@
+- Also known as Alternative types
+- A union type allows a variable, parameter, or return value to be one of several possible types. You define it using the | (pipe) symbol.
+- Why Use Union Types?
+    1. When a value can be more than one type (e.g., string or number).
+    2. To make your code flexible but still type-safe.
+

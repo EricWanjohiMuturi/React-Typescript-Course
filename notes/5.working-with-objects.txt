@@ -1,0 +1,1 @@
+- checking the key is specified to a certian type

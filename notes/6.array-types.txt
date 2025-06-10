@@ -1,0 +1,1 @@
+- Checking the specific type declared initially.
