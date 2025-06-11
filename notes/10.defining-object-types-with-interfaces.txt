@@ -1,0 +1,1 @@
+- Use the interface keyword that is provided provided by Typescript and not built in for JavaScript
