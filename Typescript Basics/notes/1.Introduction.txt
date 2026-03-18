@@ -1,0 +1,10 @@
+###INTRODUCTION OF REACT WITH TYPESCRIPT
+1. Why use React with Typescript? = For type-safety
+    - It checks your code in development for errors to avoid passing them over to production.
+    - What is React?
+    React is a JavaScript library for building user interfaces (like websites or apps). It lets you create reusable components (e.g., buttons, lists, forms).
+
+    - What is TypeScript?
+    TypeScript is JavaScript with superpowers—it adds types (like string, number, boolean) to your code. This helps catch mistakes before your app even runs.
+
+2. Ensure that you have NodeJS installed in you machine and then install Typescript.

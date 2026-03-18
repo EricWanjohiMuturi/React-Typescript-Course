@@ -1,0 +1,3 @@
+ - The value becomes the type => let cake: 'blackforest'; => therefore no other value accepted apart from blackforest
+ - Here you get like a constant type declare as the initial value.
+ - To accept other values as types you need to use the pip e symbol ( | ) to create a union.

@@ -1,0 +1,6 @@
+- Connecting Typescript and React
+- We will use Vite for tooling and starting with a React + Typescript
+- As long as you have Node, use the vite command to start up the project
+
+
+    npm create vite@latest react-ts-basics
